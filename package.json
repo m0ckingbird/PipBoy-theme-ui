@@ -1,8 +1,8 @@
 {
-  "name": "atom-dark-ui",
+  "name": "pipboy-ui",
   "theme": "ui",
   "version": "0.51.1",
-  "description": "A dark UI theme for Atom",
+  "description": "Fallout Pipboy Theme",
   "license": "MIT",
   "repository": "https://github.com/atom/atom-dark-ui",
   "engines": {
